@@ -17,7 +17,7 @@ A simple tool designed to fetch Discord user tokens using a clean and intuitive 
    git clone https://github.com/velimirpaleksic/discord-user-token-fetcher.git
    ```
 2. Open the Extensions page in your browser.
-3. Enable Devloper Mode by toggling it in the top-right corner. Click Load Unpacked and select the extension folder.
+3. Enable Developer Mode by toggling it in the top-right corner. Click Load Unpacked and select the extension folder.
 4. Navigate to Discord's website, activate the extension, and click the Get Token button to retrieve the token.
 
 ## Warning

@@ -23,10 +23,6 @@ A simple tool designed to fetch Discord user tokens using a clean and intuitive 
 ## Warning
 This project is intended for **educational and ethical use only**. Misuse of user tokens violates Discord's [Terms of Service](https://discord.com/terms) and may result in account suspension or legal consequences.
 
-## **Bugs & features** 🧩
-- [Report bug](https://github.com/velimirpaleksic/portfolio/issues)
-- [Request Feature](https://github.com/velimirpaleksic/portfolio/issues)
-
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).

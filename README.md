@@ -1,17 +1,17 @@
 # Discord Get User Token
 A simple tool designed to fetch Discord user tokens using a clean and intuitive interface. **For educational purposes only**.
 
-## Features
+## **Features**
 - Minimalist HTML/CSS design.
 - User-friendly token retrieval form.
 - Easy clipboard copy functionality.
 
-## Technologies Used
+## **Technologies Used**
 - **HTML5**
 - **CSS3**
 - **JavaScript**
 
-## How to Use
+## **How to Use**
 1. Clone this repository:
    ```bash
    git clone https://github.com/velimirpaleksic/discord-user-token-fetcher.git
@@ -20,7 +20,7 @@ A simple tool designed to fetch Discord user tokens using a clean and intuitive 
 3. Enable Developer Mode by toggling it in the top-right corner. Click Load Unpacked and select the extension folder.
 4. Navigate to Discord's website, activate the extension, and click the Get Token button to retrieve the token.
 
-## Warning
+## **Warning**
 This project is intended for **educational and ethical use only**. Misuse of user tokens violates Discord's [Terms of Service](https://discord.com/terms) and may result in account suspension or legal consequences.
 
 ## **Contact** ✉

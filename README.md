@@ -27,3 +27,8 @@ This project is intended for **educational and ethical use only**. Misuse of use
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).
 - VexSystems Instagram: [@vex.systems](https://www.instagram.com/vex.systems/).
+
+<details>
+<summary>Keywords (ignore):</summary>
+discord token, discord get token, discord get token extension, discord token extension, discord token fetcher, discord user token tool, discord token retrieval, discord token educational tool, discord token extension GitHub
+</details>
